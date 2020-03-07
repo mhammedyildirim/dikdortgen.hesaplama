@@ -1,0 +1,6 @@
+C:\Users\muhammed\Desktop\c# denemeler\dikdortgen.hesaplama\dikdortgen.hesaplama\obj\Debug\dikdortgen.hesaplama.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\c# denemeler\dikdortgen.hesaplama\dikdortgen.hesaplama\bin\Debug\dikdortgen.hesaplama.exe.config
+C:\Users\muhammed\Desktop\c# denemeler\dikdortgen.hesaplama\dikdortgen.hesaplama\bin\Debug\dikdortgen.hesaplama.exe
+C:\Users\muhammed\Desktop\c# denemeler\dikdortgen.hesaplama\dikdortgen.hesaplama\bin\Debug\dikdortgen.hesaplama.pdb
+C:\Users\muhammed\Desktop\c# denemeler\dikdortgen.hesaplama\dikdortgen.hesaplama\obj\Debug\dikdortgen.hesaplama.exe
+C:\Users\muhammed\Desktop\c# denemeler\dikdortgen.hesaplama\dikdortgen.hesaplama\obj\Debug\dikdortgen.hesaplama.pdb
